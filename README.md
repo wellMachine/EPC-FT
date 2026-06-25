@@ -1,4 +1,5 @@
 # EPC-FT
-## 测试图片下载（百度网盘永久分享）
-网盘地址：[点击跳转百度网盘](https://pan.baidu.com/s/你的分享ID)
-提取码：xxxx
+## 📥 预测图下载
+
+预测结果已上传至百度网盘（提取码：`m396`），点击下面链接下载：  
+链接: https://pan.baidu.com/s/12bkGTBcI1kqNXj1XKZVsrg?pwd=m396
